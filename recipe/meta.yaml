@@ -10,7 +10,7 @@ source:
   sha256: b4b86baa3105a28ada25091f1ef0535e7a60616d3d5d4cb1ee2aceaba341d738
 
 build:
-  number: 0
+  number: 1
   skip: true  # [not linux]
   run_exports:
     # SO name changes at minor rev bumps.
