@@ -19,7 +19,7 @@ docker_image:
 elfutils:
 - '0.194'
 icu:
-- '75'
+- '78'
 liblzma_devel:
 - '5'
 libxml2_devel:
